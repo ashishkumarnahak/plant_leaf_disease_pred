@@ -73,6 +73,7 @@ http://localhost:5000
 # Usage Examples
 
 -Web interface: upload a leaf image, get prediction
+
 -CLI / script mode: use Example.py to see how to call prediction function directly from code
 
 # License & Attribution
